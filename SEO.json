@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "catering-event-management",
+  "description": "Catering & Event Management — Hospitality Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Catering software for event quotes, menus, staffing, inventory, and advance billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "hospitality",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/catering-event-management"
+}
